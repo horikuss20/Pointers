@@ -1,0 +1,4 @@
+﻿  WilsonNoah_Pointers.cpp
+C:\Users\noah\source\repos\WilsonNoah_Pointers\WilsonNoah_Pointers\WilsonNoah_Pointers.cpp(42,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\noah\source\repos\WilsonNoah_Pointers\WilsonNoah_Pointers\WilsonNoah_Pointers.cpp(41,9): warning C4101: 'nums': unreferenced local variable
+  WilsonNoah_Pointers.vcxproj -> C:\Users\noah\source\repos\WilsonNoah_Pointers\Debug\WilsonNoah_Pointers.exe
